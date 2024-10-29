@@ -1,0 +1,24 @@
+{
+    "name": "dtdtechorg/secolang",
+    "description": "SeCoLang is a fast and secure PHP-like language for building web applications and Telegram bots.",
+    "type": "library",
+    "version": "1.0.0",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SeCoLang\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Doniyorbek To'lqinboyev",
+            "email": "your-email@example.com"
+        }
+    ],
+    "homepage": "https://github.com/dtdtechorg/secolang",
+    "keywords": ["php", "language", "library", "secolang", "web", "telegram", "bots"]
+}
